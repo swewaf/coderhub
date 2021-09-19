@@ -5,7 +5,9 @@ function findElement(array, element) {
   else
   return false;
 }
-
+/*
+hi 
+*/
 let a=[1,2,3];
 /*
 function inputType(value) {
